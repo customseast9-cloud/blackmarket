@@ -95,33 +95,6 @@ Config.Items = {
 
 Use the built-in QB inventory image path:
 
-```lua
-Config.ImageBasePath = 'nui://qb-inventory/html/images/'
-```
-
-Then item images should be named like `item_name.png`.
-
-### Local image folder
-
-For images stored inside this resource, use:
-
-```lua
-Config.ImageBasePath = 'images/'
-```
-
-Place your PNGs in `blackmarket/nui/images/`.
-
-### Custom image names
-
-Example:
-
-```lua
-{ name = 'special_item', label = 'Special', description = '...', price = 1000, amount = 5, image = 'custom.png' }
-```
-
-### Fallback image
-
-If no image is found, the menu uses `fallback.png`.
 
 ## How to use
 
