@@ -9,6 +9,8 @@
 <img width="974" height="625" alt="Screenshot 2026-05-18 173449" src="https://github.com/user-attachments/assets/a138ea95-d5da-446b-8109-44381737696e" />
 
 
+https://discord.gg/ByZ5n6Zmp8
+
 # Black Market System for FiveM (QBCore)
 
 A clean, QBCore-only black market resource for FiveM. Players can visit a location, open the shop UI, and buy items defined in `config.lua`.
